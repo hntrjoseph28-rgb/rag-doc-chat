@@ -16,7 +16,7 @@ Upload your own documents and chat with them using natural language.
 - [Claude](https://anthropic.com) — language model
 - [FAISS](https://github.com/facebookresearch/faiss) — vector store
 - [FastAPI](https://fastapi.tiangolo.com/) — API serving
-- Python 3.11+
+- Python 3.10+
 
 ## Status
 
