@@ -20,7 +20,7 @@ Upload your own documents and chat with them using natural language.
 
 ## Status
 
-🚧 In progress — built as a learning project targeting AI engineering skills.
+In progress — built as a learning project targeting AI engineering skills.
 
 ## Setup
 
